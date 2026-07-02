@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopSphere
 
 Modern Full Stack E-Commerce Platform
@@ -33,3 +34,6 @@ Analytics
 ## Screenshots
 
 ...
+=======
+# ShopSphere
+>>>>>>> 39f2bc1faabc03143fab29d9e9b6ef62a644a23a
